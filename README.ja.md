@@ -34,6 +34,14 @@ Instagram: <https://www.instagram.com/mh4gf>
 2020/2/1 ~ 現在  
 サーバーサイドエンジニアからSREにポジションを変えました。新機能の開発はメンバーに託し、今後もスケールしていくサービスを見据えた基盤設計と運用に注力しています。  
 
+#### 2020/4 RedashをFargate, Datadog, Terraformで構築/運用
+
+- RedashをFargateでオートスケールできるように
+- Datadogによる監視
+- それら全てをTerraformで管理
+
+[RedashをFargate, Datadog, Terraformで構築/運用](https://tech.timee.co.jp/entry/2020/04/20/175821)
+  
 #### 2020/3 ECRのライフサイクルツールの作成
 
 ECSタスクでECRイメージが使われている場合はそのイメージを削除しないようにライフサイクルポリシーを拡張したツールを作成。  
