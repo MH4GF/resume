@@ -16,10 +16,10 @@ Instagram: <https://www.instagram.com/mh4gf>
 
 - Ruby/Rails ... アプリのリリースから、中規模程度になった現在まで2年ほど保守運用 テレビCMによる爆発的なトラフィックを経験
 - Go ... CLIツールの作成、echo/gormを使ったAPIサーバーなど
-- AWS ... RailsのFargate化/Lambda/API Gateway/SNSなど
+- AWS ... RailsのFargate化/awscliでの自動化/Lambda/API Gateway/SNS/CloudFrontなど
 - Terraform ... AWSリソースをほぼTerraformで管理
-- SaaS ... GCP/Datadog/Sentry/SendGrid/ImageFlux/Hubspotなど
-- CI/CD ... Github Actions/Circle CI Testing, Dockerイメージのビルド, ECSへのデプロイなど 
+- SaaS ... GCP/Datadog/Sentry/Stripe/Twilio/SendGrid/ImageFlux/Hubspotなど
+- CI/CD ... Github Actions/Circle CIなど Testing, Dockerイメージのビルド, ECSへのデプロイなど 
 
 ## 得意分野
 
