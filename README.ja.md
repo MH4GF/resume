@@ -19,15 +19,22 @@ Instagram: <https://www.instagram.com/mh4gf>
 - AWS ... RailsのFargate化/Lambda/API Gateway/SNSなど
 - Terraform ... AWSリソースをほぼTerraformで管理
 - SaaS ... GCP/Datadog/Sentry/SendGrid/ImageFlux/Hubspotなど
-- CI/CD ... Dockerイメージのビルド、ECSへのデプロイなど Github Actions/Circle CI
+- CI/CD ... Github Actions/Circle CI Testing, Dockerイメージのビルド, ECSへのデプロイなど 
 
 ## 得意分野
 
 - スタートアップに求められるリーンでスピードを求められる開発が得意です。
 - シード期〜シリーズBの開発チームの変遷や、スクラム開発を経験しています。
 - 技術のキャッチアップと現場への適用が得意です。Goの勉強を始めて3ヶ月でCLIツールの作成と本番運用を達成しています。
-- Fargateや, dockerでRailsを動かすのが得意です。
+- Fargateや, DockerでRailsを動かすのが得意です。
 - 現在フルリモートで働いており、リモートワークでのコミュニケーションも得意です。
+
+## 興味分野
+- 静的型付言語でのバックエンド開発
+- モダンWebフロントエンドやサーバレス(Next.js, TS, firebase, lambda)
+- IoT
+- 0→1, 1→100どちらも
+- 人の可能性の後押し、トイルの解消、選択肢を増やす、などの事業
 - プログラミングスクールで初学者の方の就職までのお手伝いをしており、エンジニア教育も好きです。
 
 ## 経歴
